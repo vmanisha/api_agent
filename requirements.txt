@@ -1,0 +1,8 @@
+transformers 
+opensearch-py 
+sentence-transformers
+langchain
+openapi-pydantic
+openapi-schema-pydantic
+pydantic==1.10.9
+boto3
